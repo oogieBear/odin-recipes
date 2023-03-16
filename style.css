@@ -2,10 +2,22 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-#background {
+.background {
     background-color: coral;
 }
 
-div.center{
+.center .title {
+    font-size: 45px;
+}
+
+.center{
+    text-align: center;
+}
+
+.center .links {
+    font-size: 22px;
+}
+
+.cheese {
     text-align: center;
 }
