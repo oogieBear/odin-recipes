@@ -5,3 +5,7 @@
 #background {
     background-color: coral;
 }
+
+div.center{
+    text-align: center;
+}
